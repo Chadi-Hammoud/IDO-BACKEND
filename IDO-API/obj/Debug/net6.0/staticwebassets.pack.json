@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IDO-API.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IDO-API.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IDO-API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.IDO-API.props",
+      "PackagePath": "build\\IDO-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.IDO-API.props",
+      "PackagePath": "buildMultiTargeting\\IDO-API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.IDO-API.props",
+      "PackagePath": "buildTransitive\\IDO-API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

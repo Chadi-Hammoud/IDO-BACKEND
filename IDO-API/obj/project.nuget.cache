@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F57HGMb6p3qI8JHg9p17yzpIfVZ559JD6WaVfJJDBJ+68ON2/nEnX+m45rsZ21k/9+g7De08UsUfwB67IuWsFA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\IDO\\server\\APP\\IDO-API\\IDO-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chadi M. Hammoud\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Chadi M. Hammoud\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Chadi M. Hammoud\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Chadi M. Hammoud\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

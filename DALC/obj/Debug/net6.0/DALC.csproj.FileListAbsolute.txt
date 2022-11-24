@@ -1,0 +1,5 @@
+C:\projects\IDO\server\APP\DALC\obj\Debug\net6.0\DALC.csproj.AssemblyReference.cache
+C:\projects\IDO\server\APP\DALC\obj\Debug\net6.0\DALC.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\IDO\server\APP\DALC\obj\Debug\net6.0\DALC.AssemblyInfoInputs.cache
+C:\projects\IDO\server\APP\DALC\obj\Debug\net6.0\DALC.AssemblyInfo.cs
+C:\projects\IDO\server\APP\DALC\obj\Debug\net6.0\DALC.csproj.CoreCompileInputs.cache

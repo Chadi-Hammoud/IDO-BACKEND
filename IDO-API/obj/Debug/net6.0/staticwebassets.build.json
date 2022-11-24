@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "x6OY+oyGAX3bK3F1nYkU08fkc57cZhTF0qc6F5ss6IE=",
+  "Source": "IDO-API",
+  "BasePath": "_content/IDO-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IDO-API.styles.css",
+      "SourceId": "IDO-API",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/IDO-API",
+      "RelativePath": "IDO-API.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\bundle\\IDO-API.styles.css"
+    },
+    {
+      "Identity": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IDO-API.bundle.scp.css",
+      "SourceId": "IDO-API",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/IDO-API",
+      "RelativePath": "IDO-API.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\projects\\IDO\\server\\APP\\IDO-API\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\IDO-API.bundle.scp.css"
+    }
+  ]
+}
